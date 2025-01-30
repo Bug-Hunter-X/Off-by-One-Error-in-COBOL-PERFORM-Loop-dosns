@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL PERFORM loops.  The `bug.cob` file contains code with the error, resulting in an incorrect counter value. The `bugSolution.cob` file provides the corrected code.  The error is subtle and highlights the importance of careful loop condition testing in COBOL.
